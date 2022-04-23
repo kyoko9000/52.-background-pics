@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>thiennhien.jpg</file>
+  </qresource>
+</RCC>
